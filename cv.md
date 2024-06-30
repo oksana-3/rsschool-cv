@@ -1,12 +1,10 @@
-# rsschool-cv
-
 # Oksana Konchakovska
 
 ## QA Engineer
 
 ## Contact information:
-E-mail: oksana.konchakovska@gmail.com
-Telegram: @qa-stranger
+E-mail: oksana.konchakovska@gmail.com \
+Telegram: @qa-stranger \
 LinkedIn: www.linkedin.com/in/oksana-konchakovska
 
 ## Intro
